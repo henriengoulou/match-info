@@ -3,7 +3,6 @@ title: "Contact"
 order: 3
 in_menu: true
 ---
-L'Échappée Belle est actuellement composée de 6 membres.
+Match-info est actuellement composée de 1 membre.
 
-Pour nous contacter : [coucou@lechappeebelle.team](mailto:coucou@lechappeebelle.team)
-`
+Pour nous contacter : henriengoulou@icloud.com 
